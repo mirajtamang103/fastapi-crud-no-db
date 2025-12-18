@@ -1,0 +1,1 @@
+Simple CRUD API built with FastAPI using in-memory data (no database).
